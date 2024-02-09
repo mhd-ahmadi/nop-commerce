@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "wwwroot/lib/adminLTE/css/adminlte-rtl.min.css",
+    "inputFiles": [
+      "wwwroot/lib/adminLTE/css/adminlte-rtl.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/adminLTE/css/iransans-fontfamily.min.css",
+    "inputFiles": [
+      "wwwroot/lib/adminLTE/css/iransans-fontfamily.css"
+    ]
+  }
+]
